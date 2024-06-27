@@ -1,0 +1,9 @@
+* com.danielkeogh.graph
+
+A graph library for common lisp.
+
+|---------+--------------------------------------------------------------|
+| source  | git:https://github.com/DanielKeogh/com.danielkeogh.graph.git |
+| commit  | a980e44                                                      |
+| systems | com.danielkeogh.graph                                        |
+|---------+--------------------------------------------------------------|
