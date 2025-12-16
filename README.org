@@ -4,6 +4,6 @@ A graph library for common lisp.
 
 |---------+--------------------------------------------------------------|
 | source  | git:https://github.com/DanielKeogh/com.danielkeogh.graph.git |
-| commit  | 7cd85b2                                                      |
+| commit  | a4dd6c9                                                      |
 | systems | com.danielkeogh.graph                                        |
 |---------+--------------------------------------------------------------|
